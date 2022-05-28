@@ -4,7 +4,7 @@
 # BUILD: docker build --rm -t btphan95/greenr-airflow .
 # SOURCE: https://github.com/btphan95/greenr-airflow
 
-FROM python:3.6-slim-stretch
+FROM python:3.7-slim-stretch
 
 LABEL maintainer="Binh_"
 
