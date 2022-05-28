@@ -1,6 +1,6 @@
 #required libraries
 aiohttp==3.6.2
--e git://github.com/fastai/fastai.git#egg=fastai
+-e git+https://github.com/fastai/fastai.git#egg=fastai
 Pillow==7.1.1
 python-multipart==0.0.5
 starlette==0.13.3
